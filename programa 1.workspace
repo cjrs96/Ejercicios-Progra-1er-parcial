@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Programa1/Programa1.cbp" />
+		<Project filename="programa2/programa2.cbp" />
+		<Project filename="programa3/programa3.cbp" />
+		<Project filename="programa6/programa6.cbp" />
+		<Project filename="programa7/programa7.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
